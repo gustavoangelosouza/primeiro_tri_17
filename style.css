@@ -10,7 +10,7 @@
 }
 
 body{ 
-    backgrouns-coloe: var(--cor-de-fundo);
+    backgrouns-colorg: var(--cor-de-fundo);
     color: var(-- branco);
     fon t-family: 'Chakra PETCH', sans-serif;
 
